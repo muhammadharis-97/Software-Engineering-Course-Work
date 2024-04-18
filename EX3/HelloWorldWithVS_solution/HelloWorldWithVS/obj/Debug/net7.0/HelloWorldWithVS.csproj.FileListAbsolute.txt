@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX3\HelloWorldWithVS_solution\HelloWorldWithVS\bin\Debug\net7.0\HelloWorldWithVS.exe
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX3\HelloWorldWithVS_solution\HelloWorldWithVS\bin\Debug\net7.0\HelloWorldWithVS.deps.json
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX3\HelloWorldWithVS_solution\HelloWorldWithVS\bin\Debug\net7.0\HelloWorldWithVS.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX3\HelloWorldWithVS_solution\HelloWorldWithVS\bin\Debug\net7.0\HelloWorldWithVS.dll
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX3\HelloWorldWithVS_solution\HelloWorldWithVS\bin\Debug\net7.0\HelloWorldWithVS.pdb
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX3\HelloWorldWithVS_solution\HelloWorldWithVS\obj\Debug\net7.0\HelloWorldWithVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX3\HelloWorldWithVS_solution\HelloWorldWithVS\obj\Debug\net7.0\HelloWorldWithVS.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX3\HelloWorldWithVS_solution\HelloWorldWithVS\obj\Debug\net7.0\HelloWorldWithVS.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX3\HelloWorldWithVS_solution\HelloWorldWithVS\obj\Debug\net7.0\HelloWorldWithVS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX3\HelloWorldWithVS_solution\HelloWorldWithVS\obj\Debug\net7.0\HelloWorldWithVS.dll
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX3\HelloWorldWithVS_solution\HelloWorldWithVS\obj\Debug\net7.0\refint\HelloWorldWithVS.dll
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX3\HelloWorldWithVS_solution\HelloWorldWithVS\obj\Debug\net7.0\HelloWorldWithVS.pdb
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX3\HelloWorldWithVS_solution\HelloWorldWithVS\obj\Debug\net7.0\HelloWorldWithVS.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX3\HelloWorldWithVS_solution\HelloWorldWithVS\obj\Debug\net7.0\ref\HelloWorldWithVS.dll

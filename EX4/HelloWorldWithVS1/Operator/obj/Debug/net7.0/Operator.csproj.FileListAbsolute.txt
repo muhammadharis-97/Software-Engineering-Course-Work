@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\Lecture\HelloWorldWithVS1\Operator\bin\Debug\net7.0\Operator.deps.json
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\Lecture\HelloWorldWithVS1\Operator\bin\Debug\net7.0\Operator.dll
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\Lecture\HelloWorldWithVS1\Operator\bin\Debug\net7.0\Operator.pdb
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\Lecture\HelloWorldWithVS1\Operator\obj\Debug\net7.0\Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\Lecture\HelloWorldWithVS1\Operator\obj\Debug\net7.0\Operator.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\Lecture\HelloWorldWithVS1\Operator\obj\Debug\net7.0\Operator.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\Lecture\HelloWorldWithVS1\Operator\obj\Debug\net7.0\Operator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\Lecture\HelloWorldWithVS1\Operator\obj\Debug\net7.0\Operator.dll
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\Lecture\HelloWorldWithVS1\Operator\obj\Debug\net7.0\refint\Operator.dll
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\Lecture\HelloWorldWithVS1\Operator\obj\Debug\net7.0\Operator.pdb
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\Lecture\HelloWorldWithVS1\Operator\obj\Debug\net7.0\ref\Operator.dll

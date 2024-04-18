@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX1\YOURAPP\bin\Debug\net7.0\YOURAPP.exe
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX1\YOURAPP\bin\Debug\net7.0\YOURAPP.deps.json
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX1\YOURAPP\bin\Debug\net7.0\YOURAPP.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX1\YOURAPP\bin\Debug\net7.0\YOURAPP.dll
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX1\YOURAPP\bin\Debug\net7.0\YOURAPP.pdb
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX1\YOURAPP\obj\Debug\net7.0\YOURAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX1\YOURAPP\obj\Debug\net7.0\YOURAPP.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX1\YOURAPP\obj\Debug\net7.0\YOURAPP.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX1\YOURAPP\obj\Debug\net7.0\YOURAPP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX1\YOURAPP\obj\Debug\net7.0\YOURAPP.dll
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX1\YOURAPP\obj\Debug\net7.0\refint\YOURAPP.dll
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX1\YOURAPP\obj\Debug\net7.0\YOURAPP.pdb
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX1\YOURAPP\obj\Debug\net7.0\YOURAPP.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\EX1\YOURAPP\obj\Debug\net7.0\ref\YOURAPP.dll

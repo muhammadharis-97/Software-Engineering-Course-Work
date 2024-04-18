@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\Ex8\class_interface_oop\class_interface\bin\Debug\net7.0\class_interface.exe
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\Ex8\class_interface_oop\class_interface\bin\Debug\net7.0\class_interface.deps.json
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\Ex8\class_interface_oop\class_interface\bin\Debug\net7.0\class_interface.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\Ex8\class_interface_oop\class_interface\bin\Debug\net7.0\class_interface.dll
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\Ex8\class_interface_oop\class_interface\bin\Debug\net7.0\class_interface.pdb
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\Ex8\class_interface_oop\class_interface\obj\Debug\net7.0\class_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\Ex8\class_interface_oop\class_interface\obj\Debug\net7.0\class_interface.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\Ex8\class_interface_oop\class_interface\obj\Debug\net7.0\class_interface.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\Ex8\class_interface_oop\class_interface\obj\Debug\net7.0\class_interface.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\Ex8\class_interface_oop\class_interface\obj\Debug\net7.0\class_interface.dll
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\Ex8\class_interface_oop\class_interface\obj\Debug\net7.0\refint\class_interface.dll
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\Ex8\class_interface_oop\class_interface\obj\Debug\net7.0\class_interface.pdb
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\Ex8\class_interface_oop\class_interface\obj\Debug\net7.0\class_interface.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\Ex8\class_interface_oop\class_interface\obj\Debug\net7.0\ref\class_interface.dll
+C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\Ex8\class_interface_oop\class_interface\obj\Debug\net7.0\class_interface.sourcelink.json

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Calculator</id>
+    <version>1.0.0</version>
+    <authors>Calculator</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="f11bc19668f50b460e25562697826bbab69f95d5" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Lenovo\Documents\GitHub\se-cloud-2023-2024\MyWork\Ex10\Calculator\Calculator\bin\Release\net8.0\Calculator.dll" target="lib\net8.0\Calculator.dll" />
+  </files>
+</package>

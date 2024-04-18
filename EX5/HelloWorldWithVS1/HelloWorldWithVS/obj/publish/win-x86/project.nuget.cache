@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ylSghvrn9Jf8KmSgG4xIfYLHN6TnF+NxLzBIASNdg+aBGJStUForo7zrvaLcnQVJDhu4NrOX4fQ6D7HnbkRXDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\se-cloud-2023-2024\\MyWork\\EX5\\HelloWorldWithVS1\\HelloWorldWithVS\\HelloWorldWithVS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.13\\microsoft.netcore.app.runtime.win-x86.7.0.13.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.13\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.13.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.13\\microsoft.aspnetcore.app.runtime.win-x86.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

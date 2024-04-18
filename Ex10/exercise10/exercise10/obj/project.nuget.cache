@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJaM7wdtWn+n7nbyDOy4b5mX5ilEWQOSZFRmQCtX9d62jDi2jGhWA4M+WNpR6pumj1hblJkpVy1y+17K08YR6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\se-cloud-2023-2024\\MyWork\\Ex10\\exercise10\\exercise10\\exercise10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\calculator\\1.0.0\\calculator.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
